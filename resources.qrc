@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/plugins/rotaciona_foto">
+    <file>seta-giratoria-circular-no-sentido-horario.png</file>
+    <file>icon.png</file>
+  </qresource>
+</RCC>
